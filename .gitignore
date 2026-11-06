@@ -12,3 +12,4 @@ __pycache__/
 .vscode/
 
 Working with JSON and SQL/.env
+API-to-DataFrame\.env
